@@ -7,3 +7,4 @@ console.log(name,    typeof name)
 console.log(number, typeof number)
 console.log(isStudent, typeof isStudent)
 console.log(cupon, typeof cupon)
+console.log(typeof undefined);// undefined
