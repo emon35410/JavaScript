@@ -7,3 +7,5 @@ studentCount = 50; // value change successfully
 console.log(name)
 console.log(universityName)
 console.log(studentCount)
+console.log(typeof universityName)
+console.log(typeof studentCount)
