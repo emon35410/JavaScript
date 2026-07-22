@@ -16,3 +16,16 @@ marks.unshift(95);
 console.log(marks);
 marks.shift();
 console.log(marks)
+
+// Useful Everyday Methods
+const nums =[2,5,6,7,9,2];
+
+console.log(nums.includes(5));
+console.log(nums.indexOf(7));
+console.log(nums.slice(1,5))
+console.log(nums.join(" - "))
+console.log(...nums,10)
+console.log([...nums,...marks])
+
+// The Big Three: map, filter, reduce
+
